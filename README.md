@@ -4,7 +4,7 @@ I am a Senior Software Engineer with deep expertise in low-level C development, 
 
 **🛠️ Core Tech Stack:**
 - **Languages:** C, Go (Golang), Python, C++
-- **Architecture:** Microservices, EnduroX Framework, REST APIs, Concurrent Programming
+- **Architecture:** Microservices, EnduroX / Tuxedo Frameworks, REST APIs, Concurrent Programming
 - **Infrastructure & Tools:** Linux (Ubuntu Server), Docker, Nginx Proxy Manager, WireGuard, Prometheus, Grafana
 
 Focused on building secure, scalable, and reliable distributed backend systems.
